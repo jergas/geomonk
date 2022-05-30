@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Aghori_tantrik_-_freaks_of_byron_bay_(sonic_tantra_recs)-02.ogg-43fb35fd407b6541185082a798f9c658.oggstr"
+
+[deps]
+
+source_file="res://Aghori_tantrik_-_freaks_of_byron_bay_(sonic_tantra_recs)-02.ogg"
+dest_files=[ "res://.import/Aghori_tantrik_-_freaks_of_byron_bay_(sonic_tantra_recs)-02.ogg-43fb35fd407b6541185082a798f9c658.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
