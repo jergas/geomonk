@@ -1,4 +1,4 @@
-# geomonk
+# GeoMonk
 GeoMonk is a prototype of a musical autorunner. 
 The character sprite is Raven's head with a Haida Raven in his hair, 
 the music is Freaks o Byron Bay, in ogg format, by Aghori Tantrik, 
